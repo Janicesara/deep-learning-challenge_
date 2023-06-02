@@ -12,4 +12,7 @@ Results Overview of the analysis: - The purpose of the analysis was that the non
 
 Optimizing the model The model was optimized with the help of adding a new layer with neuron = 27 other changes that were applied were that instaed of removing the name column, it was used as afeature and binned together. The classification_type was also kept as a feature. This resulted in 78% accuracy. which was more than the set target.
 
+![Alt text](https://github.com/Janicesara/deep-learning-challenge_/blob/main/AlphabetSoupCharity_Optimizatio.jpeg)
+
+
 Summary The target accuracy of 75% was reached with adjusting the layers in the model even though the target accuracy was achievied ,different models like RandomForest can provide with numerous intrepretation when realted to combining the decision tree with efficient performance whereas tensorFlow requires more data and depends on the variables.
